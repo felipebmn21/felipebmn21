@@ -1,6 +1,6 @@
 ## Hi, I'm Felipe 👋
 
-My name is Felipe Araújo, a systems developer and a non-graduate of ESUP College. I have a strong interest in cybersecurity; I am currently studying and applying my knowledge of security and privacy to the websites I develop. I enjoy working in both the systems development and security fields.
+My name is Felipe Araújo, a systems developer and a non-graduate of  School Goiania Associated ESUP. I have a strong interest in cybersecurity; I am currently studying and applying my knowledge of security and privacy to the websites I develop. I enjoy working in both the systems development and security fields.
 
 **How to reach me!**
 
