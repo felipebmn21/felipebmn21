@@ -35,6 +35,9 @@ My name is Felipe Araújo,a apprentice SOC analyst and a non-graduate of  School
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-663399?style=for-the-badge&logo=magnet&logoColor=white" />
+  <a href="https://tryhackme.com/p/felipearaujo7e"target="_blank">
+    <img src="https://img.shields.io/badge/-TRYHACKME-red?style=for-the-badge&logo=tryhackm"/>
+
 </div>
 
 <!--
